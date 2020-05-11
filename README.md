@@ -1,2 +1,2 @@
 # Average
-Algorithm that calculate mean, median and mode.
+## Algorithm that calculate mean, median and mode. 📊
